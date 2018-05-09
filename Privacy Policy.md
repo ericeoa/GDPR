@@ -109,10 +109,15 @@ When you contact us using our contact form, we collect name, email address, coun
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
 
-If you do not supply the optional information (such as wedding date)requested on our contact form, we will not be able to respond to your inquiry by phone.
+If you do not supply the optional information (such as wedding date) requested on our contact form, we will not be able to cater any responses to the timing of such dates, or personalize any communications based on those inputs.
+
+<![endif]-->
+
+**Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest(s)**: responding to enquiries and messages we receive and keeping records of correspondence.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDUxNzAxNiwtMzU0NjI5NDg1LDE1MT
+eyJoaXN0b3J5IjpbMTQ2MTU1NTQ3NywtMzU0NjI5NDg1LDE1MT
 I1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3
 NTE4NV19
 -->
