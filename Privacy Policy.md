@@ -101,7 +101,7 @@ When you send an email to the email address displayed on our website we collect 
 
 __Transfer and storage of your information:__
 
-We store emails you send us on Exchange servers that are located on our property in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider has data centers globally, but  . Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
+We store emails you send us on Exchange servers that are located on our property in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider (G-Suite) has data centers globally, however,  is located in the United States. Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
 
 Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
 ## Contact Form
@@ -120,7 +120,7 @@ If you do not supply the optional information (such as wedding date) requested o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNDQ0NzAwLDE1MjQ1ODc5MzIsOTEwOD
-U3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5
-LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+eyJoaXN0b3J5IjpbLTExMzYyNDQ3NzcsMTUyNDU4NzkzMiw5MT
+A4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0
+MDksLTExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
 -->
