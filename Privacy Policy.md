@@ -230,13 +230,16 @@ __Transfer and storage of your information__
 
 Information collected by Google Analytics is stored outside the European Economic Area on Google’s servers in the United States of America.
 
-For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.]
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled [
+](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).]
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDA1MTE1NCw0NzkzMDc1OTIsNzk1Mz
-AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
-LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
-c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
-NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
-0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
-MDEyODU4XX0=
+eyJoaXN0b3J5IjpbNTkyOTgwMzAsNDc5MzA3NTkyLDc5NTMwMz
+g4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4MCwy
+MDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLTI3OD
+U3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcy
+NiwtMTU3MDI2MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMT
+E0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAx
+Mjg1OF19
 -->
