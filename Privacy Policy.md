@@ -136,10 +136,14 @@ We do not record phone calls.
 
 **Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
 **Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+__Transfer and storage of your information:__
+
+Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider[[, _insert name of third party telephone service provider_]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMj
-gwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4
-NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0ODUsMT
-UxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MSwxMDcz
-OTc1MTg1XX0=
+eyJoaXN0b3J5IjpbNDEzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNj
+YwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQwNzcxLC0xMzA0Njky
+MjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMz
+U0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3
+MDMwNjEsMTA3Mzk3NTE4NV19
 -->
