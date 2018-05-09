@@ -143,12 +143,23 @@ Information about your call, such as your phone number and the date and time of 
 
 Information about your phone call will be stored by our third party telephone service provider outside the European Economic Area. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled.==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).]==
 
+### Post
+If you contact us by post, we will collect any information you provide to us in any postal communications you send us.
 
+**Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
+**Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+<![endif]-->
+
+## Information we collect when you interact with our website
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk3NTM4NzksLTI1NzI0MjkyMiwtMT
-Y0MTc3MTczNyw0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0
-NTU3LC0yMjgwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMD
-csLTY5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2
-Mjk0ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMz
-A2MSwxMDczOTc1MTg1XX0=
+eyJoaXN0b3J5IjpbOTEwMzM0MTQ1LC0yNTcyNDI5MjIsLTE2ND
+E3NzE3MzcsNDEzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1
+NywtMjI4MDU0MjgzLC0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC
+02OTUyODYwOTYsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMzU0NjI5
+NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNj
+EsMTA3Mzk3NTE4NV19
 -->
