@@ -117,8 +117,10 @@ If you do not supply the optional information (such as wedding date) requested o
 **Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
 **Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjM2NTQ2NywtMzU0NjI5NDg1LDE1MT
-I1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3
-NTE4NV19
+eyJoaXN0b3J5IjpbOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNT
+Q0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUx
+ODVdfQ==
 -->
