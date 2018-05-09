@@ -180,7 +180,7 @@ Information you submit to subscribe for our e-newsletter will be stored outside 
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled [Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).
 
-__Use of web beacons [and similar technologies] in emails__
+__Use of web beacons and similar technologies in emails__
 
 We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates, bounce rates, unsubscribe rates, and complaint rates  which our emails achieve. ==We will only use web beacons in our emails if you have consented to us doing so.==
 
@@ -192,11 +192,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjQzOTMyMywtMTIzNzgxNDYzOCwxNj
-kwNDcyOTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3OCwtMTIwMjQw
-MTc5Niw4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLD
-EyMzE0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAw
-NTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NT
-UsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEz
-NDM3MTU1XX0=
+eyJoaXN0b3J5IjpbNzkwMjM3MjUsMjA2MjQzOTMyMywtMTIzNz
+gxNDYzOCwxNjkwNDcyOTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3
+OCwtMTIwMjQwMTc5Niw4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsOD
+IyNzk3ODEwLDEyMzE0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2
+NDg0NCwtODAwNTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNS
+w2Mzg2MjY3NTUsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3
+NzE3MzddfQ==
 -->
