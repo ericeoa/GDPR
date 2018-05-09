@@ -220,8 +220,15 @@ We do not display the identities of all of our service providers publicly by nam
 We disclose your information to other third parties in specific circumstances, as set out below.
 
 Providing information to third parties such as Google Inc. Google collects information through our use of Google Analytics on our website. Google uses this information, including IP addresses and information from cookies, for a number of purposes, such as improving its Google Analytics service. Information is shared with Google on an aggregated and anonymised basis. To find out more about what information Google collects, how it uses this information and how to control the information sent to Google, please see the following page: [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
+
+**Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest(s)**: meeting our contractual obligations to Google under our Google Analytics Terms of Service ([https://www.google.com/analytics/terms/us.html](https://www.google.com/analytics/terms/us.html))
+
+You can opt out of Google Analytics by installing the browser plugin here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ2MDE2NjMsNDc5MzA3NTkyLDc5NT
+eyJoaXN0b3J5IjpbLTIwMTkwODAxMTEsNDc5MzA3NTkyLDc5NT
 MwMzg4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4
 MCwyMDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLT
 I3ODU3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgx
