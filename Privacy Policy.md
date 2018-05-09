@@ -219,13 +219,13 @@ We do not display the identities of all of our service providers publicly by nam
 
 We disclose your information to other third parties in specific circumstances, as set out below.
 
-Providing information to third parties such as [_Google Inc._] [, [_and_] _insert any other third parties to whom information is provided_]. [Google collects information through our use of Google Analytics on our website. Google uses this information, including IP addresses and information from cookies, for a number of purposes, such as improving its Google Analytics service. Information is shared with Google on an aggregated and anonymised basis. To find out more about what information Google collects, how it uses this information and how to control the information sent to Google, please see the following page: [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
+Providing information to third parties such as Google Inc. Google collects information through our use of Google Analytics on our website. Google uses this information, including IP addresses and information from cookies, for a number of purposes, such as improving its Google Analytics service. Information is shared with Google on an aggregated and anonymised basis. To find out more about what information Google collects, how it uses this information and how to control the information sent to Google, please see the following page: [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDUxODU1OCw0NzkzMDc1OTIsNzk1Mz
-AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
-LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
-c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
-NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
-0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
-MDEyODU4XX0=
+eyJoaXN0b3J5IjpbLTEyOTQ2MDE2NjMsNDc5MzA3NTkyLDc5NT
+MwMzg4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4
+MCwyMDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLT
+I3ODU3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgx
+NDcyNiwtMTU3MDI2MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMi
+wtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkx
+MTAxMjg1OF19
 -->
