@@ -192,19 +192,17 @@ For more information about our third party mailing list provider and the use of 
 
 This section sets out the circumstances in which will disclose information about you to third parties and any additional purposes for which we use your information.
 
-<![endif]-->
-
 **Disclosure of your information to service providers**
 
-We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business [and who process your information for us on our behalf]. These include the following:
+We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business. These include the following:
 
 Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct you own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ2NzY4MzYsLTYzODk4MDMyNCwtMT
-A0MDc3MzgwLDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3
-MjkyOSwtMjc4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OT
-YsODU5ODE0NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMx
-NDE5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1Nj
-AzNywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5
-MTM3MDY3MV19
+eyJoaXN0b3J5IjpbLTc3NTkzOTUxMiwtNjM4OTgwMzI0LC0xMD
+QwNzczODAsMjA2MjQzOTMyMywtMTIzNzgxNDYzOCwxNjkwNDcy
+OTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3OCwtMTIwMjQwMTc5Ni
+w4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLDEyMzE0
+MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2MD
+M3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkx
+MzcwNjcxXX0=
 -->
