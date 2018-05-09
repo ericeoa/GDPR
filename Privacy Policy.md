@@ -101,9 +101,9 @@ When you send an email to the email address displayed on our website we collect 
 
 __Transfer and storage of your information:__
 
-We store emails you send us on Exchange servers that are located on our property in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider (G-Suite) has data centers globally. The data center we are using for email is located in the United States. Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
+Emails you send us will be stored outside the European Economic Area on our servers in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider (G-Suite) has data centers globally. The data center we are using for email is located in the United States. Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
 
-Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
+For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
 ## Contact Form
 When you contact us using our contact form, we collect name, email address, country, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
 
@@ -120,7 +120,7 @@ If you do not supply the optional information (such as wedding date) requested o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjM3OTUxNCwxNTI0NTg3OTMyLDkxMD
+eyJoaXN0b3J5IjpbLTY5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMD
 g1NzYxLC0zNTQ2Mjk0ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQw
 OSwtMTExODcwMzA2MSwxMDczOTc1MTg1XX0=
 -->
