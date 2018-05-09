@@ -121,7 +121,8 @@ __Transfer and storage of your information:__
 Messages you send us via our contact forms will be stored outside the European Economic Area in the following locations:
 
  1. On our third party hosting provider’s servers in the US. Our third party hosting provider is AWS. Their privacy policy is available here: https://aws.amazon.com/privacy/. 
- 2. On our MS Exchange server internally Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
+ 2. On our MS Exchange server. The Exchange server is located at our data center located at our office 
+ 3. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#%5BFor%20further%20information%20about%20the%20safeguards%20used%20when%20your%20information%20is%20transferred%20outside%20the%20European%20Economic%20Area,%20see%20the%20section%20of%20this%20privacy%20policy%20below%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).==
 
@@ -162,11 +163,11 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNzk3ODEwLDEyMzE0MTk1MDIsLTExND
-A0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2MDM3LC05MTEwMTI4
-NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkxMzcwNjcxLC0yNT
-cyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3MTU1LDIxODg4Mjg2
-NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQwNzcxLC
-0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMiw5MTA4
-NTc2MV19
+eyJoaXN0b3J5IjpbMjAxODE1NTA5NSw4MjI3OTc4MTAsMTIzMT
+QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
+MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
+EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
+NTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgwNTQyODMsLT
+IwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0
+NTg3OTMyXX0=
 -->
