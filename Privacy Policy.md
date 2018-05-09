@@ -89,7 +89,7 @@ You can reject some or all of the cookies we use on or via our website by changi
 
 We collect and use information from individuals who contact us in accordance with this section and the section entitled ==[Disclosure and additional uses of your information.](#Disclosure%20and%20additional%20uses%20of%20your%20information.)==
 
-### Email
+### Contact with us via Email
 
 When you send an email to the email address displayed on our website we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email).
 
@@ -104,7 +104,7 @@ __Transfer and storage of your information:__
 Emails you send us will be stored outside the European Economic Area on our servers in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider (G-Suite) has data centers globally. The data center we are using for email is located in the United States. Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
 
 For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
-### Contact Form
+### Contact with us via our Contact Form
 When you contact us using our contact form, we collect name, email address, business details (including business name business street address, city, state, zip code, and country), labels you are interested in, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: labels you currently offer in your store.
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
@@ -130,7 +130,7 @@ We use a third party contact form provider to store messages you send us. Our co
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
 
-### Phone
+### Contact with us via Phone
 When you contact us by phone, we collect your phone number and any information provided to us during your conversation with us.
 
 We do not record phone calls.
@@ -186,11 +186,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjg2OTA3OCwtMTIwMjQwMTc5Niw4NT
-k4MTQ3MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLDEyMzE0MTk1
-MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2MDM3LC
-05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkxMzcw
-NjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3MTU1LD
-IxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkw
-MTQwNzcxXX0=
+eyJoaXN0b3J5IjpbMTg0MTY3NzYwOCwyMDE2ODY5MDc4LC0xMj
+AyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2MTY2OCw4MjI3OTc4
+MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC
+04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYy
+Njc1NSw2OTEzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNy
+w0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgw
+NTQyODNdfQ==
 -->
