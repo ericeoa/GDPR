@@ -93,6 +93,8 @@ We collect and use information from individuals who contact us in accordance wit
 
 ### Contact with us via Email
 
+On our site you have the opportunity to contact us to ask us questions, for example via the contact form, we ask you for your contact information (e.g. name, email address etc.). We use this data solely in connection with answering the queries we receive.
+
 When you send an email to the email address displayed on our website we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email).
 
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
@@ -188,11 +190,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDQ3MjkyOSwtMjc4NTc1NTIxLDIwMT
-Y4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0NzI2LC0xNTcwMjYx
-NjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUxNzA1LC
-02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMzM1
-MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQyOTIyLC
-0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2MjY2
-MDQ1NTddfQ==
+eyJoaXN0b3J5IjpbLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
+c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
+NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
+0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
+MDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MS
+wtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4
+ODI4NjZdfQ==
 -->
