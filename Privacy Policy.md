@@ -207,9 +207,17 @@ Our third party service providers are located in the United States. Your informa
 
 We do not display the identities of all of our service providers publicly by name for security and competitive reasons. If you would like further information about the identities of our service providers, however, please contact us directly by email and we will provide you with such information where you have a legitimate reason for requesting it (where we have shared your information with such service providers, for example).
 
+<![endif]-->
 
+**Legal basis for processing**:  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
+**Legitimate interest relied on**: where we share your information with these third parties in a context other than where is necessary to perform a contract (or take steps at your request to do so), we will share your information with such third parties in order to allow us to run and manage our business efficiently.
+
+**Legal basis for processing**:  necessary to perform a contract and/or to take steps at your request prior to entering into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract**: we may need to share information with our service providers to enable us to perform our obligations under that contract or to take the steps you have requested before we enter into a contract with you.
+
+### Disclosure of your information to other third parties
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzUzOTg4Myw0NzkzMDc1OTIsNzk1Mz
+eyJoaXN0b3J5IjpbLTY3NTE1ODAyMyw0NzkzMDc1OTIsNzk1Mz
 AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
 LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
 c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
