@@ -97,6 +97,8 @@ On our site you have the opportunity to contact us to ask us questions, for exam
 
 When you send an email to the email address displayed on our website we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email).
 
+If you receive emails from us, we may use certain analytics tools, to capture data such as when you open our email or click on any links or banners our email contains. This data helps us to gauge the effectiveness of our communications and marketing campaigns.
+
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
 **Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
 
@@ -190,11 +192,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
-c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
-NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
-0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
-MDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MS
-wtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4
-ODI4NjZdfQ==
+eyJoaXN0b3J5IjpbMjA2MjQzOTMyMywtMTIzNzgxNDYzOCwxNj
+kwNDcyOTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3OCwtMTIwMjQw
+MTc5Niw4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLD
+EyMzE0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAw
+NTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NT
+UsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEz
+NDM3MTU1XX0=
 -->
