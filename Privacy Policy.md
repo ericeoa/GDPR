@@ -159,13 +159,13 @@ We collect and use information from individuals who interact with particular fea
 
 ### E-Newsletter
 
-When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/) [_insert description of how individual signs up to receive your e-newsletter on your website e.g. by entering their name and email address and clicking subscribe or ticking a box at checkout indicating that they would_
+When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzOD
-YyNjc1NSw2OTEzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTcz
-Nyw0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMj
-gwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4
-NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0ODUsMT
-UxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MSwxMDcz
-OTc1MTg1XX0=
+eyJoaXN0b3J5IjpbLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMz
+M1MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQyOTIy
+LC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2Mj
+Y2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5
+MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLT
+M1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4
+NzAzMDYxXX0=
 -->
