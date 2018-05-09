@@ -103,12 +103,12 @@ __Transfer and storage of your information:__
 
 We use a third party email provider to store emails you send us. Our third party email provider is located in the United States. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
-Emails you send us will be stored outside the European Economic Area on our servers in the US where your third party email provider stores your emails (usually where its servers are located_)For further information please see the section of this privacy policy entitled Transfers of your information outside the European Economic Area.]
+Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled [Transfers of your information outside the European Economic Area](#%5BEmails%20you%20send%20us%20will%20be%20stored%20%5Bwithin%20OR%20outside%5D%20the%20European%20Economic%20Area%20on%20our%20%5Bthird%20party%20email%20provider%E2%80%99s%5D%20servers%20in%20%5Binsert%20location%20%28country%29%20where%20your%20third%20party%20email%20provider%20stores%20your%20emails%20%28usually%20where%20its%20servers%20are%20located%29%5D%20.%20For%20further%20information%20please%20see%20the%20section%20of%20this%20privacy%20policy%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).]
 
 [<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) You need to state where you store individuals’ personal information, in particular whether it is stored within or outside the European Economic Area. If you (or your third party email provider) store emails outside the European Economic Area, you will also need to complete and provide the relevant information in the section of this privacy policy below entitled ‘Transfers of your information outside the European Economic Area’ and indicate the safeguards you use to transfer personal information outside the EEA.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEzMDQ1MzcsLTEyNDcxNTg0MDksLT
-ExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbMTUxMjU0NDAyNywtMTI0NzE1ODQwOSwtMT
+ExODcwMzA2MSwxMDczOTc1MTg1XX0=
 -->
