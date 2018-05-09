@@ -109,10 +109,10 @@ When you contact us using our contact form, we collect name, email address, coun
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
 
-If you do not supply the optional information required by our contact form, we will not be able to respond to your inquiry by phone_.
+If you do not supply the optional information required by our contact form (such as wedding  we will not be able to respond to your inquiry by phone_.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTEzNzMyNCwtMzU0NjI5NDg1LDE1MT
+eyJoaXN0b3J5IjpbLTQ3NDU0NTg0NywtMzU0NjI5NDg1LDE1MT
 I1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3
 NTE4NV19
 -->
