@@ -205,13 +205,15 @@ We use a number of third parties to provide us with services which are necessary
 
 Our third party service providers are located in the United States. Your information will be shared with these service providers where necessary to provide you with the service you have requested, whether that is accessing our website or ordering goods and services from us.
 
+We do not display the identities of all of our service providers publicly by name for security and competitive reasons. If you would like further information about the identities of our service providers, however, please contact us directly by email and we will provide you with such information where you have a legitimate reason for requesting it (where we have shared your information with such service providers, for example).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NDI3MDEsNDc5MzA3NTkyLDc5NTMwMz
-g4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4MCwy
-MDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLTI3OD
-U3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcy
-NiwtMTU3MDI2MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMT
-E0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAx
-Mjg1OF19
+eyJoaXN0b3J5IjpbMTY5NzUzOTg4Myw0NzkzMDc1OTIsNzk1Mz
+AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
+LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
+c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
+NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
+0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
+MDEyODU4XX0=
 -->
