@@ -139,11 +139,12 @@ We do not record phone calls.
 
 __Transfer and storage of your information:__
 
-Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider[[, _insert name of third party telephone service provider_]
+Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider[[, _insert name of third party telephone service provider. [Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE3NzE3MzcsNDEzNDM3MTU1LDIxOD
-g4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQw
-NzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMi
-w5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcx
-NTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbNDY1NDU3MTU4LC0xNjQxNzcxNzM3LDQxMz
+QzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4
+MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LD
+E1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0
+MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxOD
+VdfQ==
 -->
