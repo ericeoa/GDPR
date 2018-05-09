@@ -105,7 +105,7 @@ Emails you send us will be stored outside the European Economic Area on our serv
 
 For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
 ### Contact Form
-When you contact us using our contact form, we collect name, email address, business details (including country, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
+When you contact us using our contact form, we collect name, email address, business details (including business name business street address, city, state, zip code, and country),  and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
 
@@ -159,11 +159,11 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY1Mjc4MDQsLTYxNzU2NDg0NCwtOD
-AwNTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3
-NTUsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsND
-EzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0
-MjgzLC0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOT
-YsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1
-NDQwMjddfQ==
+eyJoaXN0b3J5IjpbLTkzNTQwNDk4LC02MTc1NjQ4NDQsLTgwMD
+U1NjAzNywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1
+LDY5MTM3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMz
+QzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4
+MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LD
+E1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0
+MDI3XX0=
 -->
