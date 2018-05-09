@@ -122,7 +122,7 @@ Messages you send us via our contact forms will be stored outside the European E
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#%5BFor%20further%20information%20about%20the%20safeguards%20used%20when%20your%20information%20is%20transferred%20outside%20the%20European%20Economic%20Area,%20see%20the%20section%20of%20this%20privacy%20policy%20below%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).==
 
-We use a third party contact form provider to store messages you send us. Our contact form provider is  located in the US. Their privacy policy is available here: https://emfluence.com/privacy-policy. Messages you send to us via our contact form will be stored outside the European Economic Area on our contact form provider’s servers in the United States.
+We use a third party contact form provider to store messages you send us. Our contact forms are hosted on our  provider is  located in the US. Their privacy policy is available here: https://emfluence.com/privacy-policy. Messages you send to us via our contact form will be stored outside the European Economic Area on our contact form provider’s servers in the United States.
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
 
@@ -159,11 +159,11 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzU2NDg0NCwtODAwNTU2MDM3LC05MT
-EwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkxMzcwNjcx
-LC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3MTU1LDIxOD
-g4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQw
-NzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMi
-w5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcx
-NTg0MDldfQ==
+eyJoaXN0b3J5IjpbOTY0NjM3MjQ3LC02MTc1NjQ4NDQsLTgwMD
+U1NjAzNywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1
+LDY5MTM3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMz
+QzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4
+MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LD
+E1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0
+MDI3XX0=
 -->
