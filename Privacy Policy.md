@@ -159,12 +159,13 @@ We collect and use information from individuals who interact with particular fea
 
 ### E-Newsletter
 
-When you sign up for our e-newsletter [[on our website] or opt to receive [news, offers [and] [_insert any additional types of information or content which your e-newsletter contains_]] from us by [_insert description of how individual signs up to receive your e-newsletter on your website e.g. by entering their name and email address and clicking subscribe or ticking a box at checkout indicating that they would_
+When you sign up for our e-newsletter on our website] or opt to receive [news, offers [and] [_insert any additional types of information or content which your e-newsletter contains_]] from us by [_insert description of how individual signs up to receive your e-newsletter on your website e.g. by entering their name and email address and clicking subscribe or ticking a box at checkout indicating that they would_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3Mj
-QyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYs
-LTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMT
-MwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3
-NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC
-0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+eyJoaXN0b3J5IjpbLTIwMTA1MjM3NDEsNjM4NjI2NzU1LDY5MT
+M3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1
+NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
+A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
+ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC
+0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+
 -->
