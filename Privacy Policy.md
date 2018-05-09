@@ -139,12 +139,14 @@ We do not record phone calls.
 
 __Transfer and storage of your information:__
 
-Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider ==[insert name of 3rd party here]==. Their privacy policy is available here: ==[_insert link to your third party email provider’s privacy policy_]==
+Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider, which is located in the United States.
+
+Information about your phone call will be stored by our third party telephone service provider [within **OR** outside] the European Economic Area. [For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MT
-M0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgwNTQy
-ODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4NjA5Ni
-wxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0ODUsMTUxMjU0
-NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MSwxMDczOTc1MT
-g1XX0=
+eyJoaXN0b3J5IjpbLTg2NjM5NzAyNywtMjU3MjQyOTIyLC0xNj
+QxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1
+NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNy
+wtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYy
+OTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMD
+YxLDEwNzM5NzUxODVdfQ==
 -->
