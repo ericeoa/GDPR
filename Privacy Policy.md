@@ -168,15 +168,16 @@ When you sign up for our e-newsletter on our website or opt to receive news, tre
 
 __Transfer and storage of your information:__
 
-We use a third party service to send out our e-newsletter and administer our mailing list, Emfluence. [Their privacy policy is available here: https://emfluence.com/privacy-policy.
+We use a third party service to send out our e-newsletter and administer our mailing list, Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy.
+
 
 On our third party email provider's servers. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIzNTQ1OTgsODIyNzk3ODEwLDEyMz
-E0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2
-MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNj
-kxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3
-MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC
-0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUy
-NDU4NzkzMl19
+eyJoaXN0b3J5IjpbMjA0MjI0NDM1NSw4MjI3OTc4MTAsMTIzMT
+QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
+MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
+EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
+NTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgwNTQyODMsLT
+IwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0
+NTg3OTMyXX0=
 -->
