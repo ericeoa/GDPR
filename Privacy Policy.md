@@ -196,13 +196,13 @@ This section sets out the circumstances in which will disclose information about
 
 We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business. These include the following:
 
-Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct your own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
+==Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct your own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MzAzODgwLC03NzU5Mzk1MTIsLTYzOD
-k4MDMyNCwtMTA0MDc3MzgwLDIwNjI0MzkzMjMsLTEyMzc4MTQ2
-MzgsMTY5MDQ3MjkyOSwtMjc4NTc1NTIxLDIwMTY4NjkwNzgsLT
-EyMDI0MDE3OTYsODU5ODE0NzI2LC0xNTcwMjYxNjY4LDgyMjc5
-NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4ND
-QsLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4
-NjI2NzU1XX0=
+eyJoaXN0b3J5IjpbNDc5MzA3NTkyLDc5NTMwMzg4MCwtNzc1OT
+M5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4MCwyMDYyNDM5MzIz
+LC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLTI3ODU3NTUyMSwyMD
+E2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2
+MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNS
+wtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMz
+NTAxMDM1XX0=
 -->
