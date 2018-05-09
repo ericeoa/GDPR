@@ -182,13 +182,14 @@ For more information on how we use web beacons in our e-newsletter emails, see o
 
 For more information about our third party mailing list provider and the use web beacons, please see their privacy policy which is available here: https://emfluence.com/privacy-policy
 
+### Registering on Our Website
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAyNjE2NjgsODIyNzk3ODEwLDEyMz
-E0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2
-MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNj
-kxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3
-MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC
-0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUy
-NDU4NzkzMl19
+eyJoaXN0b3J5IjpbODU5ODE0NzI2LC0xNTcwMjYxNjY4LDgyMj
+c5NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4
+NDQsLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMzM1MDEwMzUsNj
+M4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcx
+NzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLT
+IyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1
+Mjg2MDk2XX0=
 -->
