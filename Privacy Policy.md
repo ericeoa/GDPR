@@ -83,6 +83,8 @@ Cookies are data files which are sent from a website to a browser to record info
 
 We use cookies and similar technologies on our website to process information including standard internet log information and details of the visitor’s behavioral patterns upon visiting our site. This is done to provide you with a better experience, and to facilitate the use of certain functions.
 
+Cookies are stored on your individual device and you have full control over their use. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time. Should you visit our site with cookies deactivated, you may possibly not be able to use all of the functions on the site to their full extent.
+
 For further information on how we use cookies, please see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
 You can reject some or all of the cookies we use on or via our website by changing your browser settings or non-essential cookies by using our cookie control tool, but doing so can impair your ability to use our website or some or all of its features. For further information about cookies, including how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org)  or see our cookies policy.
@@ -188,7 +190,7 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTkyMTU4NCwtMjc4NTc1NTIxLDIwMT
+eyJoaXN0b3J5IjpbLTY5MzAzMzQ4MywtMjc4NTc1NTIxLDIwMT
 Y4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0NzI2LC0xNTcwMjYx
 NjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUxNzA1LC
 02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMzM1
