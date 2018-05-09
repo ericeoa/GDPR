@@ -121,9 +121,11 @@ __Transfer and storage of your information:__
 Messages you send us via our contact forms will be stored outside the European Economic Area on our third party hosting and/or our email provider’s servers in the US. Our third party hosting provider is AWS. Their privacy policy is available here: https://aws.amazon.com/privacy/. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#%5BFor%20further%20information%20about%20the%20safeguards%20used%20when%20your%20information%20is%20transferred%20outside%20the%20European%20Economic%20Area,%20see%20the%20section%20of%20this%20privacy%20policy%20below%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).==
+
+We use a third party contact form provider to store messages you send us. Our contact form provider is [[_insert name of third party email provider_] **OR** [located in [_insert country where your third party email_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLT
-Y5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0
-ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MS
-wxMDczOTc1MTg1XX0=
+eyJoaXN0b3J5IjpbLTIwMTIwMTUyMjcsLTIwOTAxNDA3NzEsLT
+EzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1
+NzYxLC0zNTQ2Mjk0ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOS
+wtMTExODcwMzA2MSwxMDczOTc1MTg1XX0=
 -->
