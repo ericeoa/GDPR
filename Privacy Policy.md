@@ -104,7 +104,7 @@ __Transfer and storage of your information:__
 Emails you send us will be stored outside the European Economic Area on our servers in the US. In some cases, we also use a third party (G-Suite) email provider to store emails you send us. Our third party email provider (G-Suite) has data centers globally. The data center we are using for email is located in the United States. Their privacy policy is available here: https://www.google.com/intl/en/policies/privacy/?_ga=2.198270764.223908850.1525879233-729360734.1525879233.
 
 For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
-## #Contact Form
+### Contact Form
 When you contact us using our contact form, we collect name, email address, country, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
@@ -122,10 +122,11 @@ Messages you send us via our contact forms will be stored outside the European E
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#%5BFor%20further%20information%20about%20the%20safeguards%20used%20when%20your%20information%20is%20transferred%20outside%20the%20European%20Economic%20Area,%20see%20the%20section%20of%20this%20privacy%20policy%20below%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).==
 
-We use a third party contact form provider to store messages you send us. Our contact form provider is [[_insert name of third party email provider_] **OR** [located in [_insert country where your third party email provider is located_]]]. [Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]. Messages you send to us via our contact form will be stored [within **OR** outside] the European Economic Area on our contact form provider’s servers in [_insert location (country) where your third party provider stores your emails (usually where its servers are located_)]]
+We use a third party contact form provider to store messages you send us. Our contact form provider is  located in [_insert country where your third party email provider is located_]]]. [Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]. Messages you send to us via our contact form will be stored [within **OR** outside] the European Economic Area on our contact form provider’s servers in [_insert location (country) where your third party provider stores your emails (usually where its servers are located_)]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMT
-MwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3
-NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC
-0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzIxMzc2NTMsLTIyODA1NDI4MywtMj
+A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
+ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC
+0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+
 -->
