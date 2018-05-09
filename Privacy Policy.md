@@ -216,8 +216,12 @@ We do not display the identities of all of our service providers publicly by nam
 **Reason why necessary to perform a contract**: we may need to share information with our service providers to enable us to perform our obligations under that contract or to take the steps you have requested before we enter into a contract with you.
 
 ### Disclosure of your information to other third parties
+
+We disclose your information to other third parties in specific circumstances, as set out below.
+
+Providing information to third parties such as [_Google Inc._] [, [_and_] _insert any other third parties to whom information is provided_]. [Google collects information through our use of Google Analytics on our website. Google uses this information, including IP addresses and information from cookies, for a number of purposes, such as improving its Google Analytics service. Information is shared with Google on an aggregated and anonymised basis. To find out more about what information Google collects, how it uses this information and how to control the information sent to Google, please see the following page: [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTE1ODAyMyw0NzkzMDc1OTIsNzk1Mz
+eyJoaXN0b3J5IjpbLTUwMDUxODU1OCw0NzkzMDc1OTIsNzk1Mz
 AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
 LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
 c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
