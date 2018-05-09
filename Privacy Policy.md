@@ -105,9 +105,9 @@ We use a third party email provider to store emails you send us. Our third party
 
 Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
 ## Contact Form
-When you contact us using our contact form, we collect name, email address, IP address_]. We also collect any other
+When you contact us using our contact form, we collect name, email address, IP address, . We also collect any other information you provide to us when you complete the contact form[, including any optional information, such as: [_insert any optional information you collect via your website form e.g. phone number or company name_]].
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAxMjUzMTcsMTUxMjU0NDAyNywtMT
-I0NzE1ODQwOSwtMTExODcwMzA2MSwxMDczOTc1MTg1XX0=
+eyJoaXN0b3J5IjpbLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMj
+Q3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
 -->
