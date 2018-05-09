@@ -141,12 +141,14 @@ __Transfer and storage of your information:__
 
 Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider, which is located in the United States.
 
-Information about your phone call will be stored by our third party telephone service provider [within **OR** outside] the European Economic Area. [For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.]
+Information about your phone call will be stored by our third party telephone service provider outside the European Economic Area. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled.==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).]==
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjM5NzAyNywtMjU3MjQyOTIyLC0xNj
-QxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1
-NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNy
-wtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYy
-OTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMD
-YxLDEwNzM5NzUxODVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjk3NTM4NzksLTI1NzI0MjkyMiwtMT
+Y0MTc3MTczNyw0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0
+NTU3LC0yMjgwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMD
+csLTY5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2
+Mjk0ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMz
+A2MSwxMDczOTc1MTg1XX0=
 -->
