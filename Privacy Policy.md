@@ -191,8 +191,16 @@ For more information about our third party mailing list provider and the use of 
 ## Disclosure and additional uses of your information
 
 This section sets out the circumstances in which will disclose information about you to third parties and any additional purposes for which we use your information.
+
+<![endif]-->
+
+**Disclosure of your information to service providers**
+
+We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business [and who process your information for us on our behalf]. These include the following:
+
+Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct you own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk2ODIyNjEsLTYzODk4MDMyNCwtMT
+eyJoaXN0b3J5IjpbLTE1MDQ2NzY4MzYsLTYzODk4MDMyNCwtMT
 A0MDc3MzgwLDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3
 MjkyOSwtMjc4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OT
 YsODU5ODE0NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMx
