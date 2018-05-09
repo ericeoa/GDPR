@@ -101,9 +101,10 @@ When you send an email to the email address displayed on our website we collect 
 
 __Transfer and storage of your information:__
 
-We use a third party email provider to store emails you send us. Our third party email provider is located in [_insert country where your third party email provider is located_]]. [Their privacy policy is available here: insert link to your third party email provider’s privacy policy.
+We use a third party email provider to store emails you send us. Our third party email provider is located in the United States. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbNjgxOTQ2ODksLTExMTg3MDMwNjEsMTA3Mz
+k3NTE4NV19
 -->
