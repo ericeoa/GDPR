@@ -155,12 +155,12 @@ If you contact us by post, we will collect any information you provide to us in 
 <![endif]-->
 
 ## Information we collect when you interact with our website
-
+We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled ##[Disclosure and additional uses of your information](#Disclosure%20and%20additional%20uses%20of%20your%20information).##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2ND
-E3NzE3MzcsNDEzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1
-NywtMjI4MDU0MjgzLC0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC
-02OTUyODYwOTYsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMzU0NjI5
-NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNj
-EsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbNzQ2NDU5NTY2LDY5MTM3MDY3MSwtMjU3Mj
+QyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYs
+LTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMT
+MwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3
+NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC
+0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
 -->
