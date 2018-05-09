@@ -226,13 +226,17 @@ Providing information to third parties such as Google Inc. Google collects infor
 
 You can opt out of Google Analytics by installing the browser plugin here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
+__Transfer and storage of your information__
 
+Information collected by Google Analytics is stored outside the European Economic Area on Google’s servers in the United States of America.
+
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkwODAxMTEsNDc5MzA3NTkyLDc5NT
-MwMzg4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4
-MCwyMDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLT
-I3ODU3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgx
-NDcyNiwtMTU3MDI2MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMi
-wtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkx
-MTAxMjg1OF19
+eyJoaXN0b3J5IjpbMjA1NDA1MTE1NCw0NzkzMDc1OTIsNzk1Mz
+AzODgwLC03NzU5Mzk1MTIsLTYzODk4MDMyNCwtMTA0MDc3Mzgw
+LDIwNjI0MzkzMjMsLTEyMzc4MTQ2MzgsMTY5MDQ3MjkyOSwtMj
+c4NTc1NTIxLDIwMTY4NjkwNzgsLTEyMDI0MDE3OTYsODU5ODE0
+NzI2LC0xNTcwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC
+0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTEx
+MDEyODU4XX0=
 -->
