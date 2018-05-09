@@ -118,10 +118,10 @@ If you do not supply the optional information (such as wedding date) requested o
 **Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
 __Transfer and storage of your information:__
-Messages you send us via our contact forms will be stored outside the European Economic Area on our third party hosting and/or our email provider’s servers in the US. Our third party hosting provider is AWS. Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]. 
+Messages you send us via our contact forms will be stored outside the European Economic Area on our third party hosting and/or our email provider’s servers in the US. Our third party hosting provider is AWS. Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjIwNzQ3MiwtMTMwNDY5MjIwNywtNj
-k1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4
-NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLD
-EwNzM5NzUxODVdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcxNTY3OTUsLTEzMDQ2OTIyMDcsLT
+Y5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0
+ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MS
+wxMDczOTc1MTg1XX0=
 -->
