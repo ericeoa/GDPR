@@ -203,13 +203,15 @@ We use a number of third parties to provide us with services which are necessary
  - Telephone providers
  - CRM provider
 
+Our third party service providers are located in the United States. Your information will be shared with these service providers where necessary to provide you with the service you have requested, whether that is accessing our website or ordering goods and services from us.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MDI4MTYwLDQ3OTMwNzU5Miw3OTUzMD
-M4ODAsLTc3NTkzOTUxMiwtNjM4OTgwMzI0LC0xMDQwNzczODAs
-MjA2MjQzOTMyMywtMTIzNzgxNDYzOCwxNjkwNDcyOTI5LC0yNz
-g1NzU1MjEsMjAxNjg2OTA3OCwtMTIwMjQwMTc5Niw4NTk4MTQ3
-MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLDEyMzE0MTk1MDIsLT
-ExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2MDM3LC05MTEw
-MTI4NThdfQ==
+eyJoaXN0b3J5IjpbNzA5NDI3MDEsNDc5MzA3NTkyLDc5NTMwMz
+g4MCwtNzc1OTM5NTEyLC02Mzg5ODAzMjQsLTEwNDA3NzM4MCwy
+MDYyNDM5MzIzLC0xMjM3ODE0NjM4LDE2OTA0NzI5MjksLTI3OD
+U3NTUyMSwyMDE2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcy
+NiwtMTU3MDI2MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMT
+E0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAx
+Mjg1OF19
 -->
