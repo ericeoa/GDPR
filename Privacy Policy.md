@@ -109,7 +109,7 @@ When you contact us using our contact form, we collect name, email address, busi
 
 If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
 
-If you do not supply the optional information (such as wedding date) requested on our contact form, we will not be able to cater any responses to the timing of such dates, or personalize any communications based on those inputs.
+If you do not supply the optional information (such as labels you currently offer in your store) requested on our contact form, we will not be able to cater any responses to the timing of such dates, or personalize any communications based on those inputs.
 
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
 **Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
@@ -159,11 +159,11 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtOD
-AwNTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3
-NTUsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsND
-EzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0
-MjgzLC0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOT
-YsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1
-NDQwMjddfQ==
+eyJoaXN0b3J5IjpbODYwNzQ0NjA0LC0xMTQwNDUxNzA1LC02MT
+c1NjQ4NDQsLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMzM1MDEw
+MzUsNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQyOTIyLC0xNj
+QxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2MjY2MDQ1
+NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5MjIwNy
+wtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLTM1NDYy
+OTQ4NV19
 -->
