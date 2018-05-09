@@ -124,10 +124,13 @@ For further information about the safeguards used when your information is trans
 
 We use a third party contact form provider to store messages you send us. Our contact form provider is  located in the US. Their privacy policy is available here: https://emfluence.com/privacy-policy. Messages you send to us via our contact form will be stored outside the European Economic Area on our contact form provider’s servers in the United States.
 
-For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled [Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDU3NDY3OSwtMjI4MDU0MjgzLC0yMD
-kwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4
-NzkzMiw5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLT
-EyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
+A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
+ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC
+0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
+
 -->
