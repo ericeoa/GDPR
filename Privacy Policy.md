@@ -131,15 +131,13 @@ When you contact us by phone, we collect your phone number and any information p
 
 We do not record phone calls.
 
-<![endif]-->
-
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
 **Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
 
 **Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
 **Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0Njg2ODI3LC0xNjI2NjA0NTU3LC0yMj
+eyJoaXN0b3J5IjpbMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMj
 gwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4
 NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0ODUsMT
 UxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MSwxMDcz
