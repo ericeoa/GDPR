@@ -101,6 +101,7 @@ When you send an email to the email address displayed on our website we collect 
 
 __Transfer and storage of your information:__
 
+We store yo
 We use a third party email provider to store emails you send us. Our third party email provider is located in the United States. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
 Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
@@ -120,7 +121,7 @@ If you do not supply the optional information (such as wedding date) requested o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNT
-Q0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUx
-ODVdfQ==
+eyJoaXN0b3J5IjpbMTI3NjUyODY5MCw5MTA4NTc2MSwtMzU0Nj
+I5NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMw
+NjEsMTA3Mzk3NTE4NV19
 -->
