@@ -170,14 +170,18 @@ __Transfer and storage of your information:__
 
 We use a third party service to send out our e-newsletter and administer our mailing list, Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
+Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the United States
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
+
+[<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) You need to state where your third party mailing list provider stores your subscribers’ information, and, in particular, whether it is stored inside or outside the European Economic Area (EEA).
 On our third party email provider's servers. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjI0NDM1NSw4MjI3OTc4MTAsMTIzMT
-QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
-MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
-EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
-NTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgwNTQyODMsLT
-IwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0
-NTg3OTMyXX0=
+eyJoaXN0b3J5IjpbNzY1Nzg3ODY2LDgyMjc5NzgxMCwxMjMxND
+E5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAz
+NywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MT
+M3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1
+NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
+A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
+ODc5MzJdfQ==
 -->
