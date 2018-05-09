@@ -111,13 +111,14 @@ If you do not provide the mandatory information required by our contact form, yo
 
 If you do not supply the optional information (such as wedding date) requested on our contact form, we will not be able to cater any responses to the timing of such dates, or personalize any communications based on those inputs.
 
-<![endif]-->
-
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation).  
-**Legitimate interest(s)**: responding to enquiries and messages we receive and keeping records of correspondence.
+**Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTU1NTQ3NywtMzU0NjI5NDg1LDE1MT
+eyJoaXN0b3J5IjpbLTQxMjM2NTQ2NywtMzU0NjI5NDg1LDE1MT
 I1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3
 NTE4NV19
 -->
