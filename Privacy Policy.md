@@ -122,10 +122,10 @@ Messages you send us via our contact forms will be stored outside the European E
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#%5BFor%20further%20information%20about%20the%20safeguards%20used%20when%20your%20information%20is%20transferred%20outside%20the%20European%20Economic%20Area,%20see%20the%20section%20of%20this%20privacy%20policy%20below%20entitled%20Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area.%5D).==
 
-We use a third party contact form provider to store messages you send us. Our contact form provider is [[_insert name of third party email provider_] **OR** [located in [_insert country where your third party email_
+We use a third party contact form provider to store messages you send us. Our contact form provider is [[_insert name of third party email provider_] **OR** [located in [_insert country where your third party email provider is located_]]]. [Their privacy policy is available here: [_insert link to your third party email provider’s privacy policy_]. Messages you send to us via our contact form will be stored [within **OR** outside] the European Economic Area on our contact form provider’s servers in [_insert location (country) where your third party provider stores your emails (usually where its servers are located_)]]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwMTUyMjcsLTIwOTAxNDA3NzEsLT
-EzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0NTg3OTMyLDkxMDg1
-NzYxLC0zNTQ2Mjk0ODUsMTUxMjU0NDAyNywtMTI0NzE1ODQwOS
-wtMTExODcwMzA2MSwxMDczOTc1MTg1XX0=
+eyJoaXN0b3J5IjpbLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMT
+MwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3
+NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC
+0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
 -->
