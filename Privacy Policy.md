@@ -104,9 +104,10 @@ __Transfer and storage of your information:__
 We use a third party email provider to store emails you send us. Our third party email provider is located in the United States. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
 Emails you send us will be stored outside the European Economic Area on our servers in the US. For further information please see the section of this privacy policy entitled ==[\[Transfers of your information outside the European Economic Area\]](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area)==
-## 
+## Contact Form
+When you contact us using our contact form, we collect name, email address, IP address_]. We also collect any other
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE3NDc0NjUsMTUxMjU0NDAyNywtMT
+eyJoaXN0b3J5IjpbLTE4NDAxMjUzMTcsMTUxMjU0NDAyNywtMT
 I0NzE1ODQwOSwtMTExODcwMzA2MSwxMDczOTc1MTg1XX0=
 -->
