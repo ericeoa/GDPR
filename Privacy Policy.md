@@ -155,9 +155,13 @@ If you contact us by post, we will collect any information you provide to us in 
 <![endif]-->
 
 ## Information we collect when you interact with our website
-We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled ##[Disclosure and additional uses of your information](#Disclosure%20and%20additional%20uses%20of%20your%20information).##
+We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled ==[Disclosure and additional uses of your information](#Disclosure%20and%20additional%20uses%20of%20your%20information).==
+
+### E-Newsletter
+
+When you sign up for our e-newsletter [[on our website] or opt to receive [news, offers [and] [_insert any additional types of information or content which your e-newsletter contains_]] from us by [_insert description of how individual signs up to receive your e-newsletter on your website e.g. by entering their name and email address and clicking subscribe or ticking a box at checkout indicating that they would_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NDU5NTY2LDY5MTM3MDY3MSwtMjU3Mj
+eyJoaXN0b3J5IjpbNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3Mj
 QyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYs
 LTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMT
 MwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3
