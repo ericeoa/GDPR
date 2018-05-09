@@ -194,7 +194,7 @@ This section sets out the circumstances in which will disclose information about
 
 **Disclosure of your information to service providers**
 
-We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business. These include the following:
+We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business. These include the following categories of providers:
 
 ==Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct your own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)==
 
@@ -205,7 +205,7 @@ We use a number of third parties to provide us with services which are necessary
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMDM0ODE5LDQ3OTMwNzU5Miw3OTUzMD
+eyJoaXN0b3J5IjpbNzU2MDI4MTYwLDQ3OTMwNzU5Miw3OTUzMD
 M4ODAsLTc3NTkzOTUxMiwtNjM4OTgwMzI0LC0xMDQwNzczODAs
 MjA2MjQzOTMyMywtMTIzNzgxNDYzOCwxNjkwNDcyOTI5LC0yNz
 g1NzU1MjEsMjAxNjg2OTA3OCwtMTIwMjQwMTc5Niw4NTk4MTQ3
