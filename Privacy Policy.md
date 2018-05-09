@@ -171,17 +171,16 @@ __Transfer and storage of your information:__
 We use a third party service to send out our e-newsletter and administer our mailing list, Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy.
 
 Information you submit to subscribe for our e-newsletter will be stored outside the European Economic Area on our third party mailing list provider’s servers in the United States
-For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled Transfers of your information outside the European Economic Area.
 
+For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled [Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).
 
-[<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) You need to state where your third party mailing list provider stores your subscribers’ information, and, in particular, whether it is stored inside or outside the European Economic Area (EEA).
 On our third party email provider's servers. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1Nzg3ODY2LDgyMjc5NzgxMCwxMjMxND
-E5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAz
-NywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MT
-M3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1
-NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
-A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
-ODc5MzJdfQ==
+eyJoaXN0b3J5IjpbLTExNzAxNTU4MzQsODIyNzk3ODEwLDEyMz
+E0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2
+MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNj
+kxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3
+MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC
+0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUy
+NDU4NzkzMl19
 -->
