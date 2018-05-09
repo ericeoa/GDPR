@@ -81,7 +81,7 @@ We use the information gathered from the analysis of this information to improve
 
 Cookies are data files which are sent from a website to a browser to record information about users for various purposes.
 
-We use cookies and similar technologies on our website, including essential, functional, analytical and targeting cookies and web beacons. For further information on how we use cookies, please see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
+We use cookies and similar technologies on our website to process information including standard internet log information and details of the visitor’s behavioral patterns upon visiting our site. This is done to provide you with a better experience, and to facilitate the use of certain functions. Cookies are small data files transferred onto computers or devices by sites for record-keeping purposes and to enhance functionality on our site., including essential, functional, analytical and targeting cookies and web beacons. For further information on how we use cookies, please see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
 You can reject some or all of the cookies we use on or via our website by changing your browser settings or non-essential cookies by using our cookie control tool, but doing so can impair your ability to use our website or some or all of its features. For further information about cookies, including how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org)  or see our cookies policy.
 
@@ -186,11 +186,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODU3NTUyMSwyMDE2ODY5MDc4LC0xMj
-AyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2MTY2OCw4MjI3OTc4
-MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC
-04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYy
-Njc1NSw2OTEzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNy
-w0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgw
-NTQyODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjk4MjcyNjcsLTI3ODU3NTUyMSwyMD
+E2ODY5MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2
+MTY2OCw4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNS
+wtNjE3NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMz
+NTAxMDM1LDYzODYyNjc1NSw2OTEzNzA2NzEsLTI1NzI0MjkyMi
+wtMTY0MTc3MTczNyw0MTM0MzcxNTUsMjE4ODgyODY2LC0xNjI2
+NjA0NTU3XX0=
 -->
