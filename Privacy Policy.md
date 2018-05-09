@@ -147,7 +147,7 @@ Information about your call, such as your phone number and the date and time of 
 
 Information about your phone call will be stored by our third party telephone service provider outside the European Economic Area. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled.==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).]==
 
-### Post
+### Contact with us via Post
 If you contact us by post, we will collect any information you provide to us in any postal communications you send us.
 
 **Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
@@ -186,11 +186,11 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI0MDE3OTYsODU5ODE0NzI2LC0xNT
-cwMjYxNjY4LDgyMjc5NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUx
-NzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAzNywtOTExMDEyODU4LD
-IwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQy
-OTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLT
-E2MjY2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMw
-NDY5MjIwN119
+eyJoaXN0b3J5IjpbMjAxNjg2OTA3OCwtMTIwMjQwMTc5Niw4NT
+k4MTQ3MjYsLTE1NzAyNjE2NjgsODIyNzk3ODEwLDEyMzE0MTk1
+MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2MDM3LC
+05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkxMzcw
+NjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3MTU1LD
+IxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkw
+MTQwNzcxXX0=
 -->
