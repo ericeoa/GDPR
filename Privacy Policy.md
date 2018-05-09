@@ -127,7 +127,7 @@ We use a third party contact form provider to store messages you send us. Our co
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
 
 ### Phone
-When you contact us by phone, we collect your phone number and any information provide to us during your conversation with us.
+When you contact us by phone, we collect your phone number and any information provided to us during your conversation with us.
 
 We do not record phone calls.
 
@@ -141,9 +141,9 @@ __Transfer and storage of your information:__
 
 Information about your call, such as your phone number and the date and time of your call, is processed by our third party telephone service provider[[, _insert name of third party telephone service provider_]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNDM3MTU1LDIxODg4Mjg2NiwtMTYyNj
-YwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQwNzcxLC0xMzA0Njky
-MjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMiw5MTA4NTc2MSwtMz
-U0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3
-MDMwNjEsMTA3Mzk3NTE4NV19
+eyJoaXN0b3J5IjpbLTE2NDE3NzE3MzcsNDEzNDM3MTU1LDIxOD
+g4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQw
+NzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMi
+w5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcx
+NTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3NTE4NV19
 -->
