@@ -176,7 +176,7 @@ For further information about the safeguards used when your information is trans
 
 __Use of web beacons [and similar technologies] in emails__
 
-We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates and] [click through rates] [and] [_insert any additional information you measure about user interaction with your emails_][<![if !supportFootnotes]>[1]<![endif]>](#_ftn1) which our emails achieve.] [We will only use [web beacons] [and] [_insert any other tracking technologies you use_] in our emails if you have consented to us doing so.]
+We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates, bounce rates, u ,  which our emails achieve.] [We will only use [web beacons] [and] [_insert any other tracking technologies you use_] in our emails if you have consented to us doing so.]
 
 <![if !supportFootnotes]>  
 
@@ -186,11 +186,11 @@ We use technologies such as web beacons (small graphic files) in the emails we s
 
 [<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) You should describe any additional information you measure in your marketing emails.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzA1ODIzNSw4MjI3OTc4MTAsMTIzMT
-QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
-MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
-EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
-NTUsMjE4ODgyODY2LC0xNjI2NjA0NTU3LC0yMjgwNTQyODMsLT
-IwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4NjA5NiwxNTI0
-NTg3OTMyXX0=
+eyJoaXN0b3J5IjpbLTE4MDk3NjgxNzYsODIyNzk3ODEwLDEyMz
+E0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2
+MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNj
+kxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3
+MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC
+0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUy
+NDU4NzkzMl19
 -->
