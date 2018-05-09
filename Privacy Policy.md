@@ -180,9 +180,9 @@ We use technologies such as web beacons (small graphic files) in the emails we s
 
 For more information on how we use web beacons in our e-newsletter emails, see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
-
+For more information about our third party mailing list provider and the use web beacons, please see their privacy policy which is available here: insert link to privacy policy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzA4NjEzMSw4MjI3OTc4MTAsMTIzMT
+eyJoaXN0b3J5IjpbMTA4NTk5ODE2Miw4MjI3OTc4MTAsMTIzMT
 QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
 MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
 EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
