@@ -152,8 +152,6 @@ If you contact us by post, we will collect any information you provide to us in 
 **Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
 **Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 
-<![endif]-->
-
 ## Information we collect when you interact with our website
 We collect and use information from individuals who interact with particular features of our website in accordance with this section and the section entitled ==[Disclosure and additional uses of your information](#Disclosure%20and%20additional%20uses%20of%20your%20information).==
 
@@ -161,11 +159,11 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDU1NjAzNywtOTExMDEyODU4LDIwMz
-M1MDEwMzUsNjM4NjI2NzU1LDY5MTM3MDY3MSwtMjU3MjQyOTIy
-LC0xNjQxNzcxNzM3LDQxMzQzNzE1NSwyMTg4ODI4NjYsLTE2Mj
-Y2MDQ1NTcsLTIyODA1NDI4MywtMjA5MDE0MDc3MSwtMTMwNDY5
-MjIwNywtNjk1Mjg2MDk2LDE1MjQ1ODc5MzIsOTEwODU3NjEsLT
-M1NDYyOTQ4NSwxNTEyNTQ0MDI3LC0xMjQ3MTU4NDA5LC0xMTE4
-NzAzMDYxXX0=
+eyJoaXN0b3J5IjpbLTYxNzU2NDg0NCwtODAwNTU2MDM3LC05MT
+EwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNjkxMzcwNjcx
+LC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3MTU1LDIxOD
+g4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC0yMDkwMTQw
+NzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUyNDU4NzkzMi
+w5MTA4NTc2MSwtMzU0NjI5NDg1LDE1MTI1NDQwMjcsLTEyNDcx
+NTg0MDldfQ==
 -->
