@@ -81,7 +81,7 @@ We use the information gathered from the analysis of this information to improve
 
 Cookies are data files which are sent from a website to a browser to record information about users for various purposes.
 
-We use cookies and similar technologies on our website, including essential, functional, analytical and] targeting cookies and web beacons. For further information on how we use cookies, please see our cookies policy which is available here: ==[\[insert URL of cookies policy\]](#cookie-policy).==
+We use cookies and similar technologies on our website, including essential, functional, analytical and] targeting cookies and web beacons. For further information on how we use cookies, please see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
 You can reject some or all of the cookies we use on or via our website by changing your browser settings or non-essential cookies by using our cookie control tool, but doing so can impair your ability to use our website or some or all of its features. For further information about cookies, including how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org)  or see our cookies policy.
 
@@ -186,7 +186,7 @@ For more information about our third party mailing list provider and the use web
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTY3NzYwOCwyMDE2ODY5MDc4LC0xMj
+eyJoaXN0b3J5IjpbMTI4OTM3NDY5MiwyMDE2ODY5MDc4LC0xMj
 AyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2MTY2OCw4MjI3OTc4
 MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC
 04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYy
