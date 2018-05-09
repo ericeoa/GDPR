@@ -126,11 +126,22 @@ We use a third party contact form provider to store messages you send us. Our co
 
 For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of this privacy policy below entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
 
+### Phone
+When you contact us by phone, we collect your phone number and any information provide to us during your conversation with us.
 
+We do not record phone calls.
+
+<![endif]-->
+
+**Legal basis for processing**:  our  legitimate interests (Article 6(1)(f) of the General Data Protection Regulation)  
+**Legitimate interest(s)**: responding to inquiries and messages we receive and keeping records of correspondence.
+
+**Legal basis for processing**: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).  
+**Reason why necessary to perform a contract**: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
-A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
-ODc5MzIsOTEwODU3NjEsLTM1NDYyOTQ4NSwxNTEyNTQ0MDI3LC
-0xMjQ3MTU4NDA5LC0xMTE4NzAzMDYxLDEwNzM5NzUxODVdfQ==
-
+eyJoaXN0b3J5IjpbOTc0Njg2ODI3LC0xNjI2NjA0NTU3LC0yMj
+gwNTQyODMsLTIwOTAxNDA3NzEsLTEzMDQ2OTIyMDcsLTY5NTI4
+NjA5NiwxNTI0NTg3OTMyLDkxMDg1NzYxLC0zNTQ2Mjk0ODUsMT
+UxMjU0NDAyNywtMTI0NzE1ODQwOSwtMTExODcwMzA2MSwxMDcz
+OTc1MTg1XX0=
 -->
