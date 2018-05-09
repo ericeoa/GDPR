@@ -163,13 +163,16 @@ We collect and use information from individuals who interact with particular fea
 
 When you sign up for our e-newsletter on our website or opt to receive news, trend reports and fashion tips from us by filling out the [join our mailing list](https://www.essensedesigns.com/email-signup/), we collect name, email address, country, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
 
+***Legal basis for processing:** your  consent (Article 6(1)(a) of the General Data Protection Regulation).  
+**Consent**: you give your consent to us sending you our e-newsletter by signing up to receive it using the steps described above.
+
 On our third party email provider's servers. Our third party email provider is Emfluence. Their privacy policy is available here: https://emfluence.com/privacy-policy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTczNzU3LDgyMjc5NzgxMCwxMjMxND
-E5NTAyLC0xMTQwNDUxNzA1LC02MTc1NjQ4NDQsLTgwMDU1NjAz
-NywtOTExMDEyODU4LDIwMzM1MDEwMzUsNjM4NjI2NzU1LDY5MT
-M3MDY3MSwtMjU3MjQyOTIyLC0xNjQxNzcxNzM3LDQxMzQzNzE1
-NSwyMTg4ODI4NjYsLTE2MjY2MDQ1NTcsLTIyODA1NDI4MywtMj
-A5MDE0MDc3MSwtMTMwNDY5MjIwNywtNjk1Mjg2MDk2LDE1MjQ1
-ODc5MzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQyNzk4NTMsODIyNzk3ODEwLDEyMz
+E0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2NDg0NCwtODAwNTU2
+MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNSw2Mzg2MjY3NTUsNj
+kxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3NzE3MzcsNDEzNDM3
+MTU1LDIxODg4Mjg2NiwtMTYyNjYwNDU1NywtMjI4MDU0MjgzLC
+0yMDkwMTQwNzcxLC0xMzA0NjkyMjA3LC02OTUyODYwOTYsMTUy
+NDU4NzkzMl19
 -->
