@@ -107,8 +107,12 @@ Emails you send us will be stored outside the European Economic Area on our serv
 ## Contact Form
 When you contact us using our contact form, we collect name, email address, country, and IP address. We also collect any other information you provide to us when you complete the contact form, including any optional information, such as: street address and wedding date.
 
+If you do not provide the mandatory information required by our contact form, you will not be able to submit the contact form and we will not receive your inquiry.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDg2MTQ5NCwtMzU0NjI5NDg1LDE1MT
+eyJoaXN0b3J5IjpbMjAwNDQ5ODEwMywtMzU0NjI5NDg1LDE1MT
 I1NDQwMjcsLTEyNDcxNTg0MDksLTExMTg3MDMwNjEsMTA3Mzk3
 NTE4NV19
 -->
