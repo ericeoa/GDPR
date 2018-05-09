@@ -178,15 +178,11 @@ __Use of web beacons [and similar technologies] in emails__
 
 We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates, bounce rates, unsubscribe rates, and complaint rates  which our emails achieve. ==We will only use web beacons in our emails if you have consented to us doing so.==
 
-<![if !supportFootnotes]>  
+For more information on how we use web beacons in our e-newsletter emails, see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
-----------
 
-<![endif]>
-
-[<![if !supportFootnotes]>[1]<![endif]>](#_ftnref1) You should describe any additional information you measure in your marketing emails.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDg2ODUxNiw4MjI3OTc4MTAsMTIzMT
+eyJoaXN0b3J5IjpbMTY0MzA4NjEzMSw4MjI3OTc4MTAsMTIzMT
 QxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3NTY0ODQ0LC04MDA1NTYw
 MzcsLTkxMTAxMjg1OCwyMDMzNTAxMDM1LDYzODYyNjc1NSw2OT
 EzNzA2NzEsLTI1NzI0MjkyMiwtMTY0MTc3MTczNyw0MTM0Mzcx
