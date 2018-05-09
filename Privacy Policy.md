@@ -182,21 +182,21 @@ For further information about the safeguards used when your information is trans
 
 __Use of web beacons and similar technologies in emails__
 
-We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates, bounce rates, unsubscribe rates, and complaint rates  which our emails achieve. ==We will only use web beacons in our emails if you have consented to us doing so.==
+We use technologies such as web beacons (small graphic files) in the emails we send to allow us to assess the level of engagement our emails receive by measuring information such as the delivery rates, open rates, click through rates, bounce rates, unsubscribe rates, and complaint rates which our emails achieve. ==We will only use web beacons in our emails if you have consented to us doing so.==
 
 For more information on how we use web beacons in our e-newsletter emails, see our cookies policy which is available here: https://www.essensedesigns.com/cookie-policy/
 
-For more information about our third party mailing list provider and the use web beacons, please see their privacy policy which is available here: https://emfluence.com/privacy-policy
+For more information about our third party mailing list provider and the use of web beacons, please see their privacy policy which is available here: https://emfluence.com/privacy-policy
 
 ### Information collected or obtained from third parties
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMjM3MjUsMjA2MjQzOTMyMywtMTIzNz
-gxNDYzOCwxNjkwNDcyOTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3
-OCwtMTIwMjQwMTc5Niw4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsOD
-IyNzk3ODEwLDEyMzE0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2
-NDg0NCwtODAwNTU2MDM3LC05MTEwMTI4NTgsMjAzMzUwMTAzNS
-w2Mzg2MjY3NTUsNjkxMzcwNjcxLC0yNTcyNDI5MjIsLTE2NDE3
-NzE3MzddfQ==
+eyJoaXN0b3J5IjpbLTEwNDA3NzM4MCwyMDYyNDM5MzIzLC0xMj
+M3ODE0NjM4LDE2OTA0NzI5MjksLTI3ODU3NTUyMSwyMDE2ODY5
+MDc4LC0xMjAyNDAxNzk2LDg1OTgxNDcyNiwtMTU3MDI2MTY2OC
+w4MjI3OTc4MTAsMTIzMTQxOTUwMiwtMTE0MDQ1MTcwNSwtNjE3
+NTY0ODQ0LC04MDA1NTYwMzcsLTkxMTAxMjg1OCwyMDMzNTAxMD
+M1LDYzODYyNjc1NSw2OTEzNzA2NzEsLTI1NzI0MjkyMiwtMTY0
+MTc3MTczN119
 -->
