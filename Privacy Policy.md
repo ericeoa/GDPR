@@ -1,63 +1,7 @@
-# Privacy Policy
 
-This Privacy Policy sets out how we, Essense of Australia, Inc, collect, store and use information about you when you use or interact with our website, www.essensedesigns.com (our **website**) and where we otherwise obtain or collect information about you. This Privacy Policy is effective from May 4th, 2018
 
-----------
-## Summary
 
-This section summarizes how we obtain, store and use information about you. It is intended to provide a very general overview only. **It is not complete in and of itself and it must be read in conjunction with the corresponding full sections of this Privacy Policy.**
-
-**Data controller**: Essense of Australia, Inc
-
-**Information we collect**: name, contact details, IP address, information from cookies, information about your computer or device (e.g. device and browser type), information about how you use our website (e.g, which pages you have viewed, the time when you viewed them and what you clicked on), and the geographic location from which you accessed our website (based on your IP address).
-
-**Disclosure of your information to third parties**: only to the extent necessary to run our business, to our service providers, to fulfill any contracts we enter into with you, or where required by law or to enforce legal rights.
-
-**Do we sell your information to third parties (other than in the course of a business sale or purchase or similar event)**: No
-
-**How long we retain your information**: for no longer than necessary, taking into account any legal obligations we have (e.g. to maintain records for tax purposes), any other legal basis we have for using your information (e.g. your consent, and performance of a contract with you or our legitimate interests as a business). For specific retention periods in relation to certain information which we collect from you, please see the main section below entitled [How long we retain your information](#How%20long%20we%20retain%20your%20information).
-
-**How we secure your information**: using appropriate technical and organizational measures such as storing your information on secure servers, encrypting transfers of data to or from our servers using Secure Sockets Layer (SSL) technology, and only granting access to your information where necessary.
-
-**Use of cookies and similar technologies**: we use cookies [and similar information-gathering technologies such as web beacons, including essential, functional, analytical, and targeting cookies] on our website. Web beacons, which are also known as clear GIFs, web bugs or pixel tags, are often used in combination with cookies. They are images (often transparent) that are part of web pages. At Essense of Australia, web beacons allow us to count users who have visited certain pages and to generate statistics about how our site is used. For more information, please visit our cookies policy here: ==[_insert link to cookies policy_]==
-
-**Transfers of your information outside the European Economic Area**: in certain circumstances we transfer your information outside of the European Economic Area, including to the following countries: United States, Canada, and Australia. Where we do so, we will ensure appropriate safeguards are in place. The third parties we use who transfer your information outside the European Economic Area have self-certified themselves as compliant with the EU-U.S. Privacy Shield
-
-**Use of automated decision making and profiling**: we use automated decision making and/or profiling in relation to our website through the use of web analytics, cookies, web beacons and server logs analysis tools (profiling). We use targeting cookies to display advertisements to people who visit our website on other websites around the internet (e.g. using Google Adwords remarketing).
-
-**Your rights in relation to your information**
-
- - to access your information and to receive information about its use
- - to have your information corrected and/or completed
- - to have your information deleted
- - to restrict the use of your information
- - to receive your information in a portable format
- - to object to the use of your information
- - to withdraw your consent to the use of your information
- - to not have significant decisions made about you based solely on automated processing of your information, including profiling
- - to complain to a supervisory authority
-
-**Sensitive personal information**: we do not knowingly or intentionally collect what is commonly referred to as ‘sensitive personal information’. For more information, please see the main section below entitled [Sensitive Personal Information](#Sensitive%20Personal%20Information).
-
-## Our Details
-
-The data controller in respect of our website is Essense of Australia, Inc of 15500 W. 113th Street, Suite 300, Lenexa, KS. 66219. You can contact the data controller by writing a letter or sending an email to cs.usa@essensedesigns.com.
-
-==The data controller’s representative is [_insert name of the data controller’s representative_]. You can contact the data controller’s representative by writing to [_insert correspondence address for the data controller’s representative_] or sending an email to [insert email address] (mailto:email@address.com).==
-
-## Information we collect when you visit our website
-
-We collect and use information from website visitors in accordance with this section and the section entitled ==[Disclosure and additional uses of your information](#Disclosure%20and%20additional%20uses%20of%20your%20information).==
-
-## Web server log information
-
-We use a third party server to host our website called Amazon Web Services, the privacy policy of which is available here: https://aws.amazon.com/privacy/. Our website server automatically logs the IP address you use to access our website as well as other information about your visit such as the pages accessed, information requested, the date and time of the request, the source of your access to our website (e.g. the website or URL (link) which referred you to our website), and your browser version and operating system.
-
-Our server is located in US East (N. Virginia) and, accordingly, if you are in the EU, your information is transferred outside the European Economic Area (EEA). For further information and information on the safeguards used, please see the section of this privacy policy entitled ==[Transfers of your information outside the European Economic Area](#Transfers%20of%20your%20information%20outside%20the%20European%20Economic%20Area).==
-
-Use of website server log information for IT security purposes
-
-We **AND/OR** our third party hosting provider collect(s) and store(s) server logs to ensure network and IT security and so that the server and website remain uncompromised. This includes analysing log files to help identify and prevent unauthorised access to our network, the distribution of malicious code, denial of services attacks and other cyber attacks, by detecting unusual or suspicious activity.
+> Written with [StackEdit](https://stackedit.io/).g log files to help identify and prevent unauthorised access to our network, the distribution of malicious code, denial of services attacks and other cyber attacks, by detecting unusual or suspicious activity.
 
 Unless we are investigating suspicious or potential criminal activity, we do not make, nor do we allow our hosting provider to make, any attempt to identify you from the information collected via server logs.
 
@@ -196,8 +140,6 @@ This section sets out the circumstances in which will disclose information about
 
 We use a number of third parties to provide us with services which are necessary to run our business or to assist us with running our business. These include the following categories of providers:
 
-==Many of the entities in the following list can be classified as ‘data processors’ (though this will not necessarily be the case and will depend on your individual circumstances). You will need to conduct your own analysis to confirm whether such third party processors (and any other processors you use) are ‘data processors’ for the purposes of the GDPR and enter into data processing agreements with them if so. For further information, see the ICO’s guidance which is available here: [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)==
-
  - Email providers
  - Hosting providers
  - Telephone providers
@@ -235,11 +177,11 @@ For further information about the safeguards used when your information is trans
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjMwOTI4NywtMTAwNzQ5Njc5LDU5Mj
-k4MDMwLDQ3OTMwNzU5Miw3OTUzMDM4ODAsLTc3NTkzOTUxMiwt
-NjM4OTgwMzI0LC0xMDQwNzczODAsMjA2MjQzOTMyMywtMTIzNz
-gxNDYzOCwxNjkwNDcyOTI5LC0yNzg1NzU1MjEsMjAxNjg2OTA3
-OCwtMTIwMjQwMTc5Niw4NTk4MTQ3MjYsLTE1NzAyNjE2NjgsOD
-IyNzk3ODEwLDEyMzE0MTk1MDIsLTExNDA0NTE3MDUsLTYxNzU2
-NDg0NF19
+eyJoaXN0b3J5IjpbLTExNzQ2MjkyNjIsLTEwMDc0OTY3OSw1OT
+I5ODAzMCw0NzkzMDc1OTIsNzk1MzAzODgwLC03NzU5Mzk1MTIs
+LTYzODk4MDMyNCwtMTA0MDc3MzgwLDIwNjI0MzkzMjMsLTEyMz
+c4MTQ2MzgsMTY5MDQ3MjkyOSwtMjc4NTc1NTIxLDIwMTY4Njkw
+NzgsLTEyMDI0MDE3OTYsODU5ODE0NzI2LC0xNTcwMjYxNjY4LD
+gyMjc5NzgxMCwxMjMxNDE5NTAyLC0xMTQwNDUxNzA1LC02MTc1
+NjQ4NDRdfQ==
 -->
